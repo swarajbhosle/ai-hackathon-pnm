@@ -1,0 +1,1 @@
+CUSTOMER_LMS = """this is customer LMS prompt"""

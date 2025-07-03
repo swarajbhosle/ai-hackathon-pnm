@@ -1,0 +1,1 @@
+CUSTOMER_SUPPORT = """this is customer Support prompt"""

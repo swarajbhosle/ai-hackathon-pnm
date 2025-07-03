@@ -1,0 +1,1 @@
+CUSTOMER_VENDOR = """this is customer Vendor prompt"""
